@@ -4,11 +4,17 @@ A short single page application meant to practice Responsive web design by using
 
 # Notes for Future Reference:
 
-_I'll use this page as a notebook for future reference_
+_I'll use this page as a notebook for future review/cheatsheet_
 
 1. Design the "Big Picture" First
    - Outline your divs, and its structure before doing the css or making it responsive
    - Often diving into the complexities first leads to a lot of extra CSS styling that is repetitive
+   - Figure out layout, fonts, and etc first before going on to make it responsive/flexbox
+
+# Resources
+
+PX, EM or REM Media Queries?: https://zellwk.com/blog/media-query-units/
+Using CSS selectors in MUI React Style: https://stackoverflow.com/questions/62892591/in-reacts-styles
 
 # Source
 
