@@ -13,6 +13,7 @@ _I'll use this page as a notebook for future review/cheatsheet_
 
 # Resources
 
+Emmet Cheatsheet: https://docs.emmet.io/cheat-sheet/
 PX, EM or REM Media Queries?: https://zellwk.com/blog/media-query-units/
 Using CSS selectors in MUI React Style: https://stackoverflow.com/questions/62892591/in-reacts-styles
 
